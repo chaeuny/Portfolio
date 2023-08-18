@@ -168,7 +168,7 @@ import {
     {
       gamename:
         "Connect Four",
-      name: "Python",
+      name: "Python Language",
       source_code_link: "https://github.com/chaeuny/personal_projects/blob/4ebf92d2b1a466f19526f311f0e8f38810d422b1/connect_four.py",
       image: connectfourpy,
     },
@@ -189,14 +189,14 @@ import {
     {
       gamename:
         "Modern Website Page",
-      name: "JS, HTML, CSS",
+      name: "HTML, JS, CSS",
       source_code_link: "https://github.com/chaeuny/Learning-Projects/tree/70e31a13cea5747c8dcd40d2ba9fa9ccd04fdd43/Modern%20Websitem",
       image: modernwebsite,
     },
     {
       gamename:
         "TicTacToe",
-      name: "JS, HTML, CSS",
+      name: "CSS, JS, HTML",
       source_code_link: "https://github.com/chaeuny/Learning-Projects/tree/70e31a13cea5747c8dcd40d2ba9fa9ccd04fdd43/Noughts%20%26%20Crosses",
       image: tictactoe,
     },
